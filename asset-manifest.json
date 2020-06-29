@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Harshi7016/ReactToDo/static/css/main.00f75b36.chunk.css",
-    "main.js": "/Harshi7016/ReactToDo/static/js/main.ef3fc9fa.chunk.js",
-    "main.js.map": "/Harshi7016/ReactToDo/static/js/main.ef3fc9fa.chunk.js.map",
+    "main.css": "/Harshi7016/ReactToDo/static/css/main.d32d94dc.chunk.css",
+    "main.js": "/Harshi7016/ReactToDo/static/js/main.822b0128.chunk.js",
+    "main.js.map": "/Harshi7016/ReactToDo/static/js/main.822b0128.chunk.js.map",
     "runtime-main.js": "/Harshi7016/ReactToDo/static/js/runtime-main.099a3c6a.js",
     "runtime-main.js.map": "/Harshi7016/ReactToDo/static/js/runtime-main.099a3c6a.js.map",
     "static/js/2.47293ffc.chunk.js": "/Harshi7016/ReactToDo/static/js/2.47293ffc.chunk.js",
     "static/js/2.47293ffc.chunk.js.map": "/Harshi7016/ReactToDo/static/js/2.47293ffc.chunk.js.map",
     "index.html": "/Harshi7016/ReactToDo/index.html",
-    "precache-manifest.819014e10baded3c6497da1757300336.js": "/Harshi7016/ReactToDo/precache-manifest.819014e10baded3c6497da1757300336.js",
+    "precache-manifest.01b0242f0f8122a2df36e912aeb09f1f.js": "/Harshi7016/ReactToDo/precache-manifest.01b0242f0f8122a2df36e912aeb09f1f.js",
     "service-worker.js": "/Harshi7016/ReactToDo/service-worker.js",
-    "static/css/main.00f75b36.chunk.css.map": "/Harshi7016/ReactToDo/static/css/main.00f75b36.chunk.css.map",
+    "static/css/main.d32d94dc.chunk.css.map": "/Harshi7016/ReactToDo/static/css/main.d32d94dc.chunk.css.map",
     "static/js/2.47293ffc.chunk.js.LICENSE.txt": "/Harshi7016/ReactToDo/static/js/2.47293ffc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.099a3c6a.js",
     "static/js/2.47293ffc.chunk.js",
-    "static/css/main.00f75b36.chunk.css",
-    "static/js/main.ef3fc9fa.chunk.js"
+    "static/css/main.d32d94dc.chunk.css",
+    "static/js/main.822b0128.chunk.js"
   ]
 }
