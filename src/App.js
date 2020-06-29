@@ -66,7 +66,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <div className='App'>
-          <header>
+          <header className='AppDetails'>
             <h1 style={{ color: 'white', textAlign: 'center' }}>To Do List</h1>
             <form
               style={{ textAlign: 'center' }}
