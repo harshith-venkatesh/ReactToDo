@@ -67,7 +67,12 @@ class App extends Component {
       <React.Fragment>
         <div className='App'>
           <header>
-            <form id='to-do-form' onSubmit={this.addItem}>
+            <h1 style={{ color: 'white', textAlign: 'center' }}>To Do List</h1>
+            <form
+              style={{ textAlign: 'center' }}
+              id='to-do-form'
+              onSubmit={this.addItem}
+            >
               <input
                 type='text'
                 value={this.state.currentItem.text}

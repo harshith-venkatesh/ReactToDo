@@ -11,9 +11,20 @@ body {
 }
 .App {
   background-color: #533e83;
-  min-height: 500px;
+  /* min-height: 500px;
   width: 400px;
+  margin: 40px auto; */
+  min-height: 90vh;
+  width: 99%;
   margin: 40px auto;
+}
+
+@media (max-width: 770px) {
+  .App {
+    min-height: 90vh !important;
+    width: 99% !important;
+    margin: 40px auto !important;
+  }
 }
 
 #to-do-form input {
