@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Harshi7016/ReactToDo/static/css/main.d32d94dc.chunk.css",
-    "main.js": "/Harshi7016/ReactToDo/static/js/main.822b0128.chunk.js",
-    "main.js.map": "/Harshi7016/ReactToDo/static/js/main.822b0128.chunk.js.map",
-    "runtime-main.js": "/Harshi7016/ReactToDo/static/js/runtime-main.099a3c6a.js",
-    "runtime-main.js.map": "/Harshi7016/ReactToDo/static/js/runtime-main.099a3c6a.js.map",
-    "static/js/2.47293ffc.chunk.js": "/Harshi7016/ReactToDo/static/js/2.47293ffc.chunk.js",
-    "static/js/2.47293ffc.chunk.js.map": "/Harshi7016/ReactToDo/static/js/2.47293ffc.chunk.js.map",
-    "index.html": "/Harshi7016/ReactToDo/index.html",
-    "precache-manifest.47c4e8fcc04c30787d89f8fb34e85a42.js": "/Harshi7016/ReactToDo/precache-manifest.47c4e8fcc04c30787d89f8fb34e85a42.js",
-    "service-worker.js": "/Harshi7016/ReactToDo/service-worker.js",
-    "static/css/main.d32d94dc.chunk.css.map": "/Harshi7016/ReactToDo/static/css/main.d32d94dc.chunk.css.map",
-    "static/js/2.47293ffc.chunk.js.LICENSE.txt": "/Harshi7016/ReactToDo/static/js/2.47293ffc.chunk.js.LICENSE.txt"
+    "main.css": "/ReactToDo/static/css/main.d32d94dc.chunk.css",
+    "main.js": "/ReactToDo/static/js/main.3aae164a.chunk.js",
+    "main.js.map": "/ReactToDo/static/js/main.3aae164a.chunk.js.map",
+    "runtime-main.js": "/ReactToDo/static/js/runtime-main.3c8ab943.js",
+    "runtime-main.js.map": "/ReactToDo/static/js/runtime-main.3c8ab943.js.map",
+    "static/js/2.47293ffc.chunk.js": "/ReactToDo/static/js/2.47293ffc.chunk.js",
+    "static/js/2.47293ffc.chunk.js.map": "/ReactToDo/static/js/2.47293ffc.chunk.js.map",
+    "index.html": "/ReactToDo/index.html",
+    "precache-manifest.4ea52d4ac5d2925f0788399766b1383f.js": "/ReactToDo/precache-manifest.4ea52d4ac5d2925f0788399766b1383f.js",
+    "service-worker.js": "/ReactToDo/service-worker.js",
+    "static/css/main.d32d94dc.chunk.css.map": "/ReactToDo/static/css/main.d32d94dc.chunk.css.map",
+    "static/js/2.47293ffc.chunk.js.LICENSE.txt": "/ReactToDo/static/js/2.47293ffc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.099a3c6a.js",
+    "static/js/runtime-main.3c8ab943.js",
     "static/js/2.47293ffc.chunk.js",
     "static/css/main.d32d94dc.chunk.css",
-    "static/js/main.822b0128.chunk.js"
+    "static/js/main.3aae164a.chunk.js"
   ]
 }
